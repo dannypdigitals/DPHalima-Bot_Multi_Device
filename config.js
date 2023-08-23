@@ -3,11 +3,11 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['254798708444', 'Abdul ❤️🫶', true], 
+  ['2349137433485', 'Danny P ❣️', true], 
 ]
 
-global.mods = ['254798708444'] 
-global.prems = ['254798708444']
+global.mods = ['2349137433485'] 
+global.prems = ['2349137433485']
 global.APIs = { 
   xteam: 'https://api.xteam.xyz', 
   nrtm: 'https://fg-nrtm.ddns.net',
@@ -23,9 +23,9 @@ global.APIKeys = {
 global.packname = 'Halimaᴮᴼᵀ' 
 global.author = '𝐇𝐚𝐥𝐢𝐦𝐚' 
 global.fgig = '▢ Follow me on Instagram\nhttps://www.instagram.com/noo.i.e\n' 
-global.dygp = 'https://chat.whatsapp.com/IfcVaQFsS8UCTkSEugeSt2'
+global.dygp = 'https://chat.whatsapp.com/CwcVSB5w1vYCL14W0gH0q1'
 global.fgsc = 'https://github.com/x-poison' 
-global.fgyt = 'https://youtube.com/@poisonmods'
+global.fgyt = ''
 global.fglog = 'https://i.imgur.com/EJgRBnS.jpg' 
 
 global.wait = '*⌛ _loading..._*\n*▰▰▰▰▰▰▱▱*'
